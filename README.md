@@ -1,14 +1,15 @@
-# dragonfly
+# Dragonfly
 
 I ultimately opted to use pyttsx and SpeechRecognition/Sphinx because they are offline and free, with great open source licenses
 
-Dragonfly is cappable of doing:
-Make directory
-Move Back
-Change Directory
-List Directories
-Create file
-in linux
+# Usage
+Dragonfly is cappable of:
+- Making a directory
+- Move Back
+- Changing a Directory
+- List Directories
+- Creating a file
+
 
 .
 
